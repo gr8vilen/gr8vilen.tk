@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+*{
+    font-family: 'Ubuntu', sans-serif !important;
+}
+
+
+.center{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+.topmar{
+    margin-top: 20px;
+}
+.btmar{
+    margin-bottom: 20px;
+}
+.icon{
+    font-size: 1.5rem;
+    color: aliceblue;
+}
+.left{
+
+    align-items: flex-end;
+}
